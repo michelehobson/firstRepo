@@ -1,1 +1,0 @@
-Where does Git place the message?
